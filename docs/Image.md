@@ -8,6 +8,10 @@
 
 ## 代码演示
 
+```
+<Image id={'icon-xxx'} url={'http://images/school.png'} />
+```
+
 ## API
 
 ```

@@ -8,7 +8,13 @@
 
 ## 代码演示
 
-暂无。
+```
+ <Layer
+    id={"line"}
+    type={"line"}
+    geoJSONSourceOptions={{ data: geoJson }}
+/>
+```
 
 ## API
 
