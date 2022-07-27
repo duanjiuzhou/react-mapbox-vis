@@ -31,13 +31,13 @@
 ```
 import Map, { Marker } from 'react-mapbox-vis'
  <Map mapboxOptions={{
-    accessToken: "pk.eyJ1IjoiZ2FlYTEiLCJhIjoiY2pvNnc3cW5oMDJ2ejNwc2IwbHZsOW5ucyJ9.ac1ZYblbOZyhUm9ZpIcq-w",
+    accessToken: "xxxxxx",
     center: [115.8962, 28.673558],
-    style: "mapbox://styles/gaea1/ckerxp6tp5q7a19mrokqnh6n6",
+    style: "mapbox://styles/cl61tau52007016mvi60z4sew",
     zoom: 13,
     pitch: 45,
  }} className="map">
-    <Marker lngLat={[115.91305, 28.68857]}>MapMarker</Marker>
+    <Marker lngLat={[115.415, 27.68857]}>MapMarker</Marker>
  </Map>
 ```
 

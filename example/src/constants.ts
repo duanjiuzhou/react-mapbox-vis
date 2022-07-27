@@ -8,3 +8,4 @@ export const mapServiceConfig = {
   zoom: 10,
   pitch: 45,
 };
+ 
